@@ -7,7 +7,7 @@ Repo containing the EFI for booting Mac OS on the ASUS UX410UAK Laptop.
 | --- | --- |
 | Model | UX410UAK |
 | Processor | Intel core i5-7200U @2.50ghz Kaby Lake |
-| Ram | 4go 2133mhz ddr4 |
+| Ram | 20go 2133mhz ddr4 |
 | GPU | Intel hd graphics 620 |
 | SSD | Sandisk SD8SNAT128g1002 |
 | Wifi | Intel Dual Band Wireless-AC 8260 |
