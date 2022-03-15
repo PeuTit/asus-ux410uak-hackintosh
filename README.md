@@ -24,8 +24,4 @@ Repo containing the EFI for booting Mac OS on the ASUS UX410UAK Laptop.
 - Trackpad stops working randomly
 - Usb are disconnected when laptop goes to sleep
 - Bluetooth doesn’t work very well but that’s expected with Monterey
-- Doesn’t turn off completely
-
-## Info
-
-- TDP-Down Frequency: 800 MHz
+- fn keys don't work with built-in keyboard
